@@ -37,9 +37,9 @@ if (reverseWord === word) {
 
 ## Functions
 
-- **Push** : Add an element to the top of the stack
-- **Pop** : Removes the last element from the top of the stack
-- **Peek** : Displays the last element in the stack
-- **Length** : Displays the length of elements in the stack
+- **Push** : Add an element to the top of the stack.
+- **Pop** : Removes the last element from the top of the stack.
+- **Peek** : Displays the last element in the stack.
+- **Length** : Displays the length of elements in the stack.
 
 
